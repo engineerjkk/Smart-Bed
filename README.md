@@ -133,7 +133,7 @@
 - Web 제작
 - 이미 구축된 AWS SDK를 이용해 홈페이지 만들기
 # 참고링크
-국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
-스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
-(외부 라이브러리) CircleProgressBar by "dinuscxj"[here](https://github.com/dinuscxj/CircleProgressBar)
-(외부 라이브러리) MPAndroidChart by "PhilJay"[here](https://github.com/PhilJay/MPAndroidChart)
+국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)  
+스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)  
+(외부 라이브러리) CircleProgressBar by "dinuscxj"[here](https://github.com/dinuscxj/CircleProgressBar)  
+(외부 라이브러리) MPAndroidChart by "PhilJay"[here](https://github.com/PhilJay/MPAndroidChart)  
