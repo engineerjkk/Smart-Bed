@@ -5,10 +5,10 @@
  ___
 
 ### 팀소개
- * 강준구(STM32 B-L4S5I-IOT01A)
- * 이상혁(Android Application)
- * 권용찬(Cloud Data)
- * 정수빈(Planning and Design)
+ * 강준구 (FirmWare) (STM32 B-L4S5I-IOT01A)
+ * 이상혁 (Android Application)
+ * 권용찬 (FirmWare) (Cloud Data)
+ * 정수빈 (Planning and Design)
 
 ### 활동사진
 
