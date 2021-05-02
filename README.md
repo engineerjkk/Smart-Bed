@@ -1,7 +1,8 @@
 # ULS(Untact Logic Structure)
  2021 Seoul Hardware Hackathon, ULS Team  
  ### 발표영상 ⚡[here](https://blog.naver.com/engineerjkk/222197699426)⚡
- ![image](https://user-images.githubusercontent.com/76835313/114383563-a477a100-9bc8-11eb-85df-4f3d931c7ea2.png)
+ ![image](https://user-images.githubusercontent.com/76835313/116810817-df924200-ab80-11eb-8369-7af2eb2cd567.png)
+
  ___
 
 ### 팀소개
